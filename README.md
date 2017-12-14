@@ -8,7 +8,7 @@ We’ll start by covering various popular modules and writing simple playbooks t
 Moving on, you’ll delve into useful security automation techniques and approaches, and learn how to extend Ansible for enhanced security. While on the way, we will tackle topics like how to manage secrets, how to manage all the playbooks that we will create and how to enable collaboration using Ansible Galaxy. In the final stretch, we’ll tackle how to extend the modules of Ansible for our use, and do all the previous tasks in a programmatic manner to get even more powerful automation frameworks and rigs.
 
 ## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. For example, Chapter02.
 
 
 
