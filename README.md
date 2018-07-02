@@ -31,6 +31,3 @@ Ansible is a tool written in Python2. For control machines, if Python2 is instal
 
 * [Containerization with Ansible 2](https://www.packtpub.com/virtualization-and-cloud/containerization-ansible-2?utm_source=github&utm_medium=repository&utm_campaign=9781788291910)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
-
