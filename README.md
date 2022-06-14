@@ -1,7 +1,3 @@
-## [Get this title for $10 on Packt's Spring Sale](https://www.packt.com/B08010?utm_source=github&utm_medium=packt-github-repo&utm_campaign=spring_10_dollar_2022)
------
-For a limited period, all eBooks and Videos are only $10. All the practical content you need \- by developers, for developers
-
 # Security Automation with Ansible 2
 This is the code repository for [Security Automation with Ansible 2](https://www.packtpub.com/virtualization-and-cloud/security-automation-ansible-2?utm_source=github&utm_medium=repository&utm_campaign=9781788394512), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
